@@ -15,3 +15,14 @@ git branch -M main
 git remote add origin https://github.com/NguyenHao0612/Hoc_git.git
 
 git push -u origin main
+ 
+#Lần thứ hai
+
+git status
+
+git add .
+ 
+git commit -m "lan thu hai"
+
+git push
+
