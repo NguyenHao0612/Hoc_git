@@ -26,3 +26,4 @@ git commit -m "lan thu hai"
 
 git push
 
+git pull // tải những thay đổi về lại máy
