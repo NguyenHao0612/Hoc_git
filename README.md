@@ -50,3 +50,10 @@ git remote add origin <link git>
 git push origin <tên nhánh>
 
 git checkout -b <tên nhánh>              # vừa tạo nhánh vừa chuyển sang nhánh mới tạo
+
+# *Lần thứ tư merge các nhánh vào nhanh main*
+
+`Khi thực hiện thì file bên nhanh này sẽ được merge qua nhanh kia`
+
+`Có được 2 nhánh với file giống hệt nhau`
+
