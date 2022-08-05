@@ -1,6 +1,6 @@
 # Hoc_git
 
-#*lan dau*
+# *Lần đầu tạo git*
 
 git init
 
@@ -16,7 +16,7 @@ git remote add origin https://github.com/NguyenHao0612/Hoc_git.git
 
 git push -u origin main
  
-#Lần thứ hai
+# *Lần thứ hai add nhưng file mới*
 
 git status
 
@@ -27,3 +27,5 @@ git commit -m "lan thu hai"
 git push
 
 git pull // tải những thay đổi về lại máy
+
+# *Lần thứ ba tạo nhánh cho git*
