@@ -29,3 +29,24 @@ git push
 git pull // tải những thay đổi về lại máy
 
 # *Lần thứ ba tạo nhánh cho git*
+`Nếu để file mới trong thư mục chứa nhanh main (Hay vị trí mà push lên main) thì khi tạo nhánh mới và add thì nó sẽ add cả file cũ lẫn mới vào nhánh đó`
+
+`Nếu tạo thư mục mới từ máy tính và tạo git mới từ đó thì khi add nó sẽ chỉ chứa file trong thư mục chứ ko chứa thư mục đó`
+
+git clone <link git>     # nếu lỡ xoá file thì clone tất cả về máy
+
+git status
+
+git branch <tên nhánh>                    # tạo nhánh mới 
+
+git checkout <tên nhánh>                  # chuyển sang nhánh vừa tạo
+
+git add .                                  # add tất cả file 
+
+git commit -m "<comment>"
+
+git remote add origin <link git>
+
+git push origin <tên nhánh>
+
+git checkout -b <tên nhánh>              # vừa tạo nhánh vừa chuyển sang nhánh mới tạo
