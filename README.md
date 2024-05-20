@@ -57,3 +57,9 @@ git checkout -b <tên nhánh>              # vừa tạo nhánh vừa chuyển s
 
 `Có được 2 nhánh với file giống hệt nhau`
 
+# *Command line*
+mkdir myproject     # make new folder
+ls                  # it will list the files in the directory
+git add -A          # this is git add -all 
+git statur --short
+git commit -a -m    # So let's commit it directly
